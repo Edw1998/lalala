@@ -79,7 +79,7 @@ var GanZhou = new ol.Feature({
     geometry: new ol.geom.Point([114.922, 25.869])
 });
 var ZhangZhou = new ol.Feature({
-    geometry: new ol.geom.Point([117.53761, 25.00261])
+    geometry: new ol.geom.Point([117.5377, 25.0028])
 });
 
 //设置图标
